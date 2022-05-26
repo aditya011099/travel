@@ -1,0 +1,41 @@
+h1{
+  text-align: center;color: white;
+  background-color: black;
+  margin-left:45px;
+  margin-right:45px;
+  text-shadow: 12px;
+  border-radius:7px;
+}
+p{
+  color:purple;
+  text-align: center;
+  font-family: "Brush Script MT" , brush,cursive;
+  font-size: 20px;
+}
+h2{
+  text-align: center;
+  
+  
+  
+}
+img{
+  align:center;
+  height: 250px; width:
+  490px;
+  border:solid 2px black;
+  border-radius: 7px;
+}
+h3{
+text-align:center;
+}
+button{
+  background-color:green;
+  border-radius:5px;
+  border-radius: 5px;
+  padding:15px 32px;
+  display:inline-block;
+  text-decoration: none;
+  font-size: 16px;
+  color:white;
+  text-align: center;
+}
